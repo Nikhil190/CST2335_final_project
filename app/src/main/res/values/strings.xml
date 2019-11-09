@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GUI programming</string>
+    <string name="btn_recipe">Recipe Search Engine</string>
+    <string name="btn_foreign">Foreign Currency Conversion</string>
+    <string name="btn_news">News API headlines</string>
+</resources>
