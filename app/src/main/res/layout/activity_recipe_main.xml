@@ -5,5 +5,10 @@
     android:layout_height="match_parent"
     tools:context=".recipe_search_engine.RecipeMainActivity">
 
+    <FrameLayout
+        android:id="@+id/recipe_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
 
 </RelativeLayout>
