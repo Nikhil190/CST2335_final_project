@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">GUI programming</string>
+    <string name="btn_recipe">Recipe Search Engine</string>
+    <string name="btn_foreign">Foreign Currency Conversion</string>
+    <string name="btn_news">News API headlines</string>
+
+    <string name="double_sided_arrow"><![CDATA[<->]]></string>
+    <string name="foreign_str_currency_list">मुद्रा सूची</string>
+    <string name="foreign_str_favourites">पसंदीदा</string>
+    <string name="foreign_str_base_currency">आधार मुद्रा</string>
+    <string name="foreign_fav_foreign_currency">विदेशी मुद्रा</string>
+    <string name="foreign_str_filter">फ़िल्टर</string>
+    <string name="foreign_str_clear">निकालें</string>
+    <string name="foreign_str_hint_enter_filter">फ़िल्टर करने के लिए मुद्रा प्रतीक दर्ज करें …</string>
+    <string name="foreign_str_convert">परिवर्तित करें</string>
+    <string name="foreign_str_add_to_favourites">पसंदीदा में जोड़ें</string>
+    <string name="foreign_str_remove_from_favourites">पसंदीदा से निकालें</string>
+    <string name="foreign_str_hint_enter_amount">राशी डालें</string>
+    <string name="foreign_str_from">आधार</string>
+    <string name="foreign_str_to">से</string>
+    <string name="foreign_str_toast_error_while">प्रतीक मिलते समय त्रुटि</string>
+    <string name="foreign_str_spinner_item">कृपया आधार मुद्रा का चयन करें</string>
+    <string name="foreign_str_rates_error">दर प्राप्त करते समय त्रुटि</string>
+    <string name="foreign_str_removed_snack">पसंदीदा से हटाया गया</string>
+    <string name="foreign_str_fail_remove_snack">हटाने में विफल!</string>
+    <string name="foreign_str_snack_add_fail">जोड़ने में विफल!</string>
+    <string name="foreign_str_snack_added">पसंदीदा में जोड़ा गया</string>
+    <string name="foreign_str_how_to_use">कैसे इस्तेमाल करे</string>
+    <string name="foreign_str_help_1">पहले आधार मुद्रा प्रतीक का चयन करें, और रूपांतरण के लिए विदेशी मुद्रा प्रतीक का चयन करें।</string>
+    <string name="foreign_str_help_2">मुद्रा फ़िल्टर करने के लिए पाठ दर्ज करें</string>
+    <string name="foreign_str_help_3">फ़िल्टर साफ़ करने के लिए \'निकालें\' बटन दबाएँ</string>
+    <string name="foreign_str_help_4">रूपांतरण स्क्रीन पर, राशि दर्ज करें और रूपांतरण प्राप्त करने के लिए \'परिवर्तित करें\' दबाएँ</string>
+    <string name="foreign_str_help_5">रूपांतरण मुद्रा इकाइयों को ऑफ़लाइन सहेजने के लिए \'पसंदीदा में जोड़ें\' बटन दबाएँ, और पसंदीदा से हटाने के लिए, \'पसंदीदा से निकालें\' बटन दबाएं।।</string>
+    <string name="help">मदद</string>
+    <string name="ok">ठीक</string>
+    <string name="wait">कृपया प्रतीक्षा करें…</string>
+    <string name="author">रचयिता:</string>
+    <string name="version_number">संस्करण संख्या:</string>
+</resources>

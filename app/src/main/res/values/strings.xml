@@ -3,4 +3,38 @@
     <string name="btn_recipe">Recipe Search Engine</string>
     <string name="btn_foreign">Foreign Currency Conversion</string>
     <string name="btn_news">News API headlines</string>
+
+    <string name="double_sided_arrow"><![CDATA[<->]]></string>
+    <string name="foreign_str_currency_list">Currency list</string>
+    <string name="foreign_str_favourites">Favourites</string>
+    <string name="foreign_str_base_currency">BASE CURRENCY</string>
+    <string name="foreign_fav_foreign_currency">FOREIGN CURRENCY</string>
+    <string name="foreign_str_filter">Filter</string>
+    <string name="foreign_str_clear">Clear</string>
+    <string name="foreign_str_hint_enter_filter">Enter currency symbol to filter…</string>
+    <string name="foreign_str_convert">Convert</string>
+    <string name="foreign_str_add_to_favourites">Add to favourites</string>
+    <string name="foreign_str_remove_from_favourites">Remove from favourites</string>
+    <string name="foreign_str_hint_enter_amount">Enter amount</string>
+    <string name="foreign_str_from">From</string>
+    <string name="foreign_str_to">To</string>
+    <string name="foreign_str_toast_error_while">Error while getting symbols</string>
+    <string name="foreign_str_spinner_item">Please select base currency</string>
+    <string name="foreign_str_rates_error">Error while getting rates</string>
+    <string name="foreign_str_removed_snack">Removed from favourites</string>
+    <string name="foreign_str_fail_remove_snack">Failed to remove!</string>
+    <string name="foreign_str_snack_add_fail">Failed to add!</string>
+    <string name="foreign_str_snack_added">Added to favourites</string>
+    <string name="foreign_str_how_to_use">How to use</string>
+    <string name="foreign_str_help_1">Select base currency symbol first, and select the foreign currency symbol for conversion.</string>
+    <string name="foreign_str_help_2">Enter text to filter currency</string>
+    <string name="foreign_str_help_3">Press \'clear\' to clear filter</string>
+    <string name="foreign_str_help_4">On the conversion screen, enter amount and press \'convert\' to get conversion</string>
+    <string name="foreign_str_help_5">Press \'add to favourites\' to save conversion currency units offline, and To remove from favourites, press \'Remove from Favourites\' button.</string>
+    <string name="help">Help</string>
+    <string name="ok">Ok</string>
+    <string name="wait">Please wait…</string>
+    <string name="author">Author:</string>
+    <string name="version_number">Version number:</string>
+
 </resources>
