@@ -36,4 +36,25 @@
     <string name="wait">कृपया प्रतीक्षा करें…</string>
     <string name="author">रचयिता:</string>
     <string name="version_number">संस्करण संख्या:</string>
+
+    <string name="news_search">खोजें</string>
+    <string name="news_saved">सहेजे गए</string>
+    <string name="news_view_in_browser">ब्राउज़र में देखें</string>
+    <string name="news_save">सहेजें</string>
+    <string name="news_delete">हटाएं</string>
+    <string name="news_error_toast">खोज करने के लिए विषय नाम दर्ज करें…</string>
+    <string name="news_wait">कृपया प्रतीक्षा करें…</string>
+    <string name="news_failed_save">लेख सहेजने में विफल!</string>
+    <string name="news_success_save">लेख सहेजा गया!</string>
+    <string name="news_success_delete">लेख हटाया गया!</string>
+    <string name="news_failed_delete">लेख हटाने में विफल!</string>
+    <string name="news_hint_search">समाचार प्राप्त करने के लिए विषय दर्ज करें…</string>
+    <string name="news_help_how_to_use">कैसे इस्तेमाल करे</string>
+    <string name="news_help_ok">ठीक है</string>
+    <string name="news_author">रचयिता</string>
+    <string name="news_version">संस्करण संख्या</string>
+    <string name="news_help_first">खोज स्क्रीन पर, विषय दर्ज करें और समाचार लेख सुर्खियाँ पाने के लिए \'खोजें\' दबाएँ।</string>
+    <string name="news_help_second">संक्षिप्त विवरण पढ़ने के लिए समाचार सुर्खियों पर क्लिक करें।</string>
+    <string name="news_help_three">विवरण स्क्रीन पर, लेख को ऑफ़लाइन सहेजने के लिए \'सहेजें\' पर क्लिक करें। और सहेजे गए लेखों को हटाने के लिए \'हटाएं\' पर क्लिक करें। ऑनलाइन लेख पढ़ने के लिए \'ब्राउज़र में देखें\'पर क्लिक करें</string>
+    <string name="news_help_four">सहेजे गए लेखों को देखने के लिए \'सहेजे गए\' पर क्लिक करें।</string>
 </resources>

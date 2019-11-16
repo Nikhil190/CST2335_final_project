@@ -11,6 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".news_api.NewsDetailActivity"></activity>
         <activity android:name=".foreign_currency.ForeignConversionActivity"></activity>
         <activity android:name=".foreign_currency.ForeignMainActivity" />
         <activity android:name=".news_api.NewsMainActivity" />
