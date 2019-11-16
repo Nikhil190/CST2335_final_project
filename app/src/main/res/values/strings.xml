@@ -37,4 +37,25 @@
     <string name="author">Author:</string>
     <string name="version_number">Version number:</string>
 
+    <string name="news_search">Search</string>
+    <string name="news_saved">Saved</string>
+    <string name="news_view_in_browser">View in browser</string>
+    <string name="news_save">Save</string>
+    <string name="news_delete">Delete</string>
+    <string name="news_error_toast">Please enter topic name to search…</string>
+    <string name="news_wait">Please wait…</string>
+    <string name="news_failed_save">Failed to save article!</string>
+    <string name="news_success_save">Article saved!</string>
+    <string name="news_success_delete">Article deleted!</string>
+    <string name="news_failed_delete">Failed to delete article!</string>
+    <string name="news_hint_search">Enter topic to get news…</string>
+    <string name="news_help_how_to_use">How to use</string>
+    <string name="news_help_ok">OK</string>
+    <string name="news_author">Author</string>
+    <string name="news_version">Version</string>
+    <string name="news_help_first">On Search screen, enter topic and press \'Search\' to get news article headlines.</string>
+    <string name="news_help_second">Click on news headlines to read short description.</string>
+    <string name="news_help_three">On the description screen, click on \'Save\' to save article offline. And click on \'Delete\' to delete saved article. Click on \'View in browser\' to read full article online.</string>
+    <string name="news_help_four">Click on \'Saved\' to view saved articles.</string>
+
 </resources>
