@@ -58,4 +58,29 @@
     <string name="news_help_three">On the description screen, click on \'Save\' to save article offline. And click on \'Delete\' to delete saved article. Click on \'View in browser\' to read full article online.</string>
     <string name="news_help_four">Click on \'Saved\' to view saved articles.</string>
 
+
+    <string name="recipe_toast_error">Please enter recipe title!</string>
+    <string name="recipe_please_wait">Please wait!</string>
+    <string name="recipe_hint">Enter recipe title</string>
+    <string name="recipe_search">Search</string>
+    <string name="recipe_favs">Favourites</string>
+    <string name="recipe_snack_add_success">Recipe added to favourites!</string>
+    <string name="recipe_snack_add_fail">Failed to add!</string>
+    <string name="recipe_snack_rem_success">Recipe removed from favourites!</string>
+    <string name="recipe_snack_rem_fail">Failed to remove!</string>
+    <string name="recipe_publisher">Publisher:</string>
+    <string name="recipe_author">Author</string>
+    <string name="recipe_version">Version number</string>
+    <string name="recipe_ok">OK</string>
+    <string name="recipe_how_to_use">How to use</string>
+    <string name="recipe_visit_source_link">Visit Source link</string>
+    <string name="recipe_visit_publisher_link">Visit publisher link</string>
+    <string name="recipe_save_to_favourites">Save to Favourites</string>
+    <string name="recipe_remove_from_favourites">Remove from favourites</string>
+    <string name="recipe_social_rank">Social Rank:</string>
+    <string name="recipe_help">Help</string>
+    <string name="recipe_help_one">On the search screen, enter recipe title to search. The list of search result will be shown.</string>
+    <string name="recipe_help_two">Tap on list item to view details.</string>
+    <string name="recipe_help_three">On the details screen, Click on Save to Favourites to save recipe detail offline.</string>
+    <string name="recipe_help_four">To view list of saved recipes, click on Favourites button to view a list of saved recipes.</string>
 </resources>

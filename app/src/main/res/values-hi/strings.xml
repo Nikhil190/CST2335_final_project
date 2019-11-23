@@ -57,4 +57,29 @@
     <string name="news_help_second">संक्षिप्त विवरण पढ़ने के लिए समाचार सुर्खियों पर क्लिक करें।</string>
     <string name="news_help_three">विवरण स्क्रीन पर, लेख को ऑफ़लाइन सहेजने के लिए \'सहेजें\' पर क्लिक करें। और सहेजे गए लेखों को हटाने के लिए \'हटाएं\' पर क्लिक करें। ऑनलाइन लेख पढ़ने के लिए \'ब्राउज़र में देखें\'पर क्लिक करें</string>
     <string name="news_help_four">सहेजे गए लेखों को देखने के लिए \'सहेजे गए\' पर क्लिक करें।</string>
+
+    <string name="recipe_toast_error">कृपया खाद्य व्यंजन का शीर्षक दर्ज करें!</string>
+    <string name="recipe_please_wait">कृपया प्रतीक्षा करें!</string>
+    <string name="recipe_hint">खाद्य व्यंजन का शीर्षक दर्ज करें</string>
+    <string name="recipe_search">खोजें</string>
+    <string name="recipe_favs">पसंदीदा</string>
+    <string name="recipe_snack_add_success">पकाने की विधि को पसंदीदा में जोड़ा!</string>
+    <string name="recipe_snack_add_fail">जोड़ने में विफल!</string>
+    <string name="recipe_snack_rem_success">रेसिपी पसंदीदा में से निकाल दी गई!</string>
+    <string name="recipe_snack_rem_fail">निकालने में विफल!</string>
+    <string name="recipe_publisher">प्रकाशक:</string>
+    <string name="recipe_author">रचयिता</string>
+    <string name="recipe_version">संस्करण संख्या</string>
+    <string name="recipe_ok">ठीक है</string>
+    <string name="recipe_how_to_use">कैसे उपयोग करें</string>
+    <string name="recipe_visit_source_link">सोर्स लिंक पर जाएं</string>
+    <string name="recipe_visit_publisher_link">प्रकाशक की लिंक पर जाएँ</string>
+    <string name="recipe_save_to_favourites">पसंदीदा में सहेजें</string>
+    <string name="recipe_remove_from_favourites">पसंदीदा से निकालें</string>
+    <string name="recipe_social_rank">सोशल रैंक:</string>
+    <string name="recipe_help">मदद</string>
+    <string name="recipe_help_one">खोज स्क्रीन पर, खोज करने के लिए नुस्खा शीर्षक दर्ज करें। खोज परिणाम की सूची दिखाई जाएगी।</string>
+    <string name="recipe_help_two">विवरण देखने के लिए सूची आइटम पर टैप करें।</string>
+    <string name="recipe_help_three">विवरण स्क्रीन पर, ऑफ़लाइन विवरण को सहेजने के लिए पसंदीदा में सहेजें पर क्लिक करें।</string>
+    <string name="recipe_help_four">सहेजी गई व्यंजनों की सूची देखने के लिए, पसंदीदा व्यंजनों की सूची देखने के लिए पसंदीदा बटन पर क्लिक करें।</string>
 </resources>
