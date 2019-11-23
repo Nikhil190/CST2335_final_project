@@ -25,7 +25,7 @@ import com.example.guiprogramming.news_api.NewsMainActivity;
  * Contains two fragments
  * */
 public class RecipeMainActivity extends AppCompatActivity {
-
+    
     Button buttonSearch, buttonFavourites;
     FrameLayout recipe_container;
 
@@ -133,4 +133,6 @@ public class RecipeMainActivity extends AppCompatActivity {
         }
         return (super.onOptionsItemSelected(item));
     }
+
+
 }
